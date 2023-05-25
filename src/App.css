@@ -1,0 +1,37 @@
+body {
+    background-color: #113C4A;
+    color: white;
+    text-shadow: 1px 2px black;
+    font-family: "AzeretMono", serif;
+    font-size: 0.9em;
+    line-height: 2;
+    background-image: url("./bg-pattern.png");
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+#logo {
+    font-family: "Monofett-Regular", serif;
+    letter-spacing: 2px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Monofett-Regular";
+    src: local('Monofett-Regular'), url("./Monofett-Regular.ttf") format('woff');
+}
+
+@font-face {
+    font-family: "AzeretMono";
+    src: local('AzeretMono'), url("./AzeretMono.ttf") format('woff');
+}
+
