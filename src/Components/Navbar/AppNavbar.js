@@ -16,9 +16,9 @@ function AppNavbar() {
                 <li className="nav-item" style={{borderRadius:"10px", background:"#800080", textShadow:"none", marginRight:"5px"}}>
                     <a className="nav-link link-light" href="https://github.com/leyoncode" target="_blank"> Github </a>
                 </li>
-                <li className="nav-item" style={{borderRadius:"10px", background:"white", textShadow:"none"}}>
-                    <a className="nav-link link-dark" href="./CV_LeyonIbnKamal_Feb2023.pdf"> Download CV </a>
-                </li>
+                {/*<li className="nav-item" style={{borderRadius:"10px", background:"white", textShadow:"none"}}>*/}
+                {/*    <a className="nav-link link-dark" href="./Leyon-Ibn-Kamal-Resume.pdf"> Download CV </a>*/}
+                {/*</li>*/}
             </ul>
         </div>
     );
