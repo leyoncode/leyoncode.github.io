@@ -28,10 +28,10 @@ function App() {
             <Projects/>
             <br/><hr/><br/>
 
-            {/*
+
             <WorkHistory/>
             <br/><hr/><br/>
-            */}
+
 
             <Interests/>
             <br/><hr/><br/>

@@ -1,7 +1,7 @@
 function Interests() {
     return (
         <div>
-            <h4 className="text-center"> Other Hobbies and Interests </h4>
+            <h3 className="text-center"> Other Hobbies and Interests </h3>
             <ul>
                 <li> Psychology </li>
                 <li> Meditation </li>

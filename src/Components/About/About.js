@@ -1,9 +1,9 @@
 function About() {
     return (
         <div>
-            <h4 className="text-center" > About Me </h4>
+            <h3 className="text-center" > About Me </h3>
             <p>
-                Recent CSE graduate with a deep passion for software development. With experience in Web Development and Android Development, with a strong background in writing clean and efficient code. Committed to meeting project goals and deadlines, with strong team collaboration and communication skills. Eager to start my career and bring my skills and enthusiasm to a dynamic organization.
+                Highly motivated and passionate Software Engineer with a strong foundation in Computer Science and extensive experience in developing innovative technology solutions. Proven ability to work collaboratively in fast-paced environments demonstrated through successful projects involving machine learning, web development, and cloud computing. Eager to contribute to a dynamic team, leveraging my problem-solving skills and passion for continuous learning to drive client success and professional growth.
             </p>
         </div>
     );
