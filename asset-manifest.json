@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.033560c9.css",
-    "main.js": "./static/js/main.4c73a508.js",
-    "static/js/787.c37c52b2.chunk.js": "./static/js/787.c37c52b2.chunk.js",
+    "main.css": "./static/css/main.d9bcc917.css",
+    "main.js": "./static/js/main.680696d3.js",
+    "static/js/453.8d5dd454.chunk.js": "./static/js/453.8d5dd454.chunk.js",
     "static/media/AzeretMono.ttf": "./static/media/AzeretMono.15f5e3f72862dbba9360.ttf",
     "static/media/Monofett-Regular.ttf": "./static/media/Monofett-Regular.6accdc45a0ccb863e648.ttf",
     "static/media/bg-pattern.png": "./static/media/bg-pattern.d57fbf886a5376258eb6.png",
     "index.html": "./index.html",
-    "main.033560c9.css.map": "./static/css/main.033560c9.css.map",
-    "main.4c73a508.js.map": "./static/js/main.4c73a508.js.map",
-    "787.c37c52b2.chunk.js.map": "./static/js/787.c37c52b2.chunk.js.map"
+    "main.d9bcc917.css.map": "./static/css/main.d9bcc917.css.map",
+    "main.680696d3.js.map": "./static/js/main.680696d3.js.map",
+    "453.8d5dd454.chunk.js.map": "./static/js/453.8d5dd454.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.033560c9.css",
-    "static/js/main.4c73a508.js"
+    "static/css/main.d9bcc917.css",
+    "static/js/main.680696d3.js"
   ]
 }
